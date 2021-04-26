@@ -17,10 +17,9 @@ int main() {
 //when done correctly, output should be
 //	no radio
 //	Playing TAL on NPR.......
-//	Junking a radio
-//	Playing TAL on NPR.......
 //	Driving a Prius!
 //	Junking a radio
+
 
 	return 0;
 }
